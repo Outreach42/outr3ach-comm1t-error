@@ -1,0 +1,7 @@
+PASSWORD FOR TOP TIER ADMIN ACCESS: Th1s1snt@ctu@llyRe@l
+This gives you access for:
+* Reading and writing all files on the network
+* Delete all files on the network
+* Revert any actions by any users
+* Permissions to ban and delete users
+This would actually be horrifying if it was legit.
