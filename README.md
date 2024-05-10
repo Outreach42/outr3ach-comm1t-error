@@ -1,12 +1,36 @@
-# outr3ach-comm1t-error
+# outreach-program
 
-This is a repository for the Institute internship development team. It contains the general folder architecture of the system as well as key files that all computers of the Institute have. Interns can also add their own files if they want others to pull the files and test on the system.
+This is a small website created by the Outreach Development Team! It's currently in very early stages, hoping for completion and release by the end of 2024.
 
-## History
+## Table of Contents
 
-Going through system reforms means that personal devices can not connect to their provided computers in the Institute. As a last minute alternative we have simply uploaded the general folder hierarchy and structure that all Institute computers have in this respository so that interns working at home can continue their software development while keeeping the folder structure in mind. Hopefully all revisions to the system architecture will be completed within the next couple of months and this repository will become redundant.
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Disclaimer](#disclaimer)
 
-## Warnings
+## About
 
-As this will likely be your first time using GitHub, be careful of what you commit! It is crucial that you do not upload any confidential information accidentally as GitHub tracks everything and in turn we may need to remake the repository.
-Whatever you do, do NOT commit `system/network_pass` so help me god-
+Currently this website just serves as a demo to teach login and authentication. It is aimed to be properly implemented in 2025 as a locally run website for students to try and compromise and get authentication details.
+
+## Features
+
+- Simple local run website
+- No internet connectivity needed
+- Highly customisable for tutors/devs for demos
+
+## Installation
+
+Currently relevant instructions have been provided in person to the relevant parties. However a separate repository has been set up for others to trial.
+If using Linux use the commands below:
+
+```bash
+# Example installation commands or steps
+$ git clone https://github.com/Outreach42/do_not_use_yet.git
+$ cd do_not_use_yet
+$ npm install
+
+## Disclaimer
+
+To the dev team: Please be careful when committing updates! We've already had a couple instances of devs accidentally committing their local passwords which could compromise their accounts!!
+Also if I get one more person committing memes to the assets folder so help me-
