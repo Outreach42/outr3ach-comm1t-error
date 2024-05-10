@@ -33,5 +33,5 @@ $ npm install
 
 ## Disclaimer
 
-To the dev team: Please be careful when committing updates! We've already had a couple instances of devs accidentally committing their local passwords which could compromise their accounts!!
+To the dev team: Please be careful when committing updates! We've already had a couple instances of devs accidentally committing their local passwords onto ```src/temp/``` which could compromise their accounts!!
 Also if I get one more person committing memes to the assets folder so help me-
