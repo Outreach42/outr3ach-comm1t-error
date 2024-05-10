@@ -1,5 +1,0 @@
-There's no password for the general pass.
-Users - if they can log into the system - will automatically have the lowest permissions available.
-
-UPDATE: Maybe set up specific general pass so that admins know what interns have access to?
-TEMP-PASS: G3n3r@l
