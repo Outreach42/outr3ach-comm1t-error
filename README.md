@@ -28,7 +28,8 @@ If using Linux use the commands below:
 # Example installation commands or steps
 $ git clone https://github.com/Outreach42/do_not_use_yet.git
 $ cd do_not_use_yet
-$ npm install```
+$ npm install
+```
 
 ## Disclaimer
 
